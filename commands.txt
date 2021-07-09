@@ -1,0 +1,8 @@
+FOR <pixels>
+BAC <pixels>
+RIG <degrees>
+LEF <degreen>
+COLOR <color>
+BGCOLOR <color>
+PENDOWN
+PENUP
